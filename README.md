@@ -2,7 +2,7 @@
 <div align="center">
 
 # 🚀 Abhinav Soni
-### Java Backend Engineer | DevOps Specialist | System Design Enthusiast
+### Java Backend Engineer | DevOps Specialist 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavsoni02)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavsoni.professional@gmail.com)
@@ -32,7 +32,7 @@
 <td width="50%">
 
 ### 🔧 Backend Development
-- Design & develop **Spring Boot microservices**
+- Design & develop **Spring Boot application**
 - RESTful APIs with Spring Data & Hibernate
 - Database optimization (MySQL, PostgreSQL)
 - Secure coding practices
