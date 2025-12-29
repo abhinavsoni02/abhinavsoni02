@@ -129,6 +129,7 @@
 ✅ **NSDC Certification** — Python & DSA  
 ✅ **NSDC Certification** — Spring Boot & Microservices  
 ✅ **NSDC Certification** — Secure Coding Practices  
+✅ **Skill India NSDC Certification** — Java And Python | ABC for Java and Testing, Bengaluru <br>
 
 📚 **Currently Learning:** Advanced System Design, Kubernetes Deep Dive
 
